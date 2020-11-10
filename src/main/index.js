@@ -75,6 +75,7 @@ function createMainWindow() {
 	}
 
 	if (isDevelopment) {
+		console.dir(process.env)
 		window.loadURL(
 			`http://localhost:${process.env.ELECTRON_WEBPACK_WDS_PORT}`
 		);
