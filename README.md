@@ -1,6 +1,6 @@
 # Janela - electron desktop background picker
 
-Make sure to check out [`electron-webpack`'s documentation](https://webpack.electron.build/) for more details.
+Make sure to check out [electron-webpack's documentation](https://webpack.electron.build/) for more details.
 
 ## Getting Started
 
